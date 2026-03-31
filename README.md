@@ -67,5 +67,18 @@ Digital-Literacy-Project
 
 ---
 
+## References
+
+The following tools and platforms were used while completing this Digital Literacy Project:
+
+1. GitHub – https://github.com  
+2. LinkedIn – https://www.linkedin.com  
+3. Kaggle – https://www.kaggle.com  
+4. Canva – https://www.canva.com  
+5. HackerRank – https://www.hackerrank.com  
+6. CodeChef – https://www.codechef.com  
+7. Google Forms – https://forms.google.com  
+8. National Cyber Crime Portal – https://cybercrime.gov.in
+
 ## Conclusion
 This project helped in understanding the importance of digital literacy and responsible use of technology. It also provided practical knowledge about maintaining a professional digital presence, communicating effectively online, and staying safe from cyber threats. These skills are essential for students in both academic and professional environments.
