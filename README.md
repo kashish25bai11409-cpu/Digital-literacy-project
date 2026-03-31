@@ -1,5 +1,11 @@
 # Digital Literacy Project
-
+## Student Details
+Name: Kashish Raj
+Registration Number: 25BAI11409
+Branch: B.Tech Computer Science and Engineering (AI & ML)
+Year: 1st Year  
+Course Code: CSE0001 – Digital Literacy  
+University: VIT Bhopal University
 ## Project Overview
 This project focuses on developing awareness and understanding of digital literacy and responsible online behavior. In today's digital world, people interact with various online platforms for communication, collaboration, learning, and information sharing. The aim of this project is to promote safe, responsible, and effective use of digital technologies.
 
