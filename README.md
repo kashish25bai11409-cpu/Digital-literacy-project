@@ -32,8 +32,14 @@ A presentation was created to explain the concept of digital literacy and its im
 ### Task 2: Digital Portfolio
 Professional digital profiles were created to represent skills and achievements online. Platforms such as LinkedIn and GitHub were explored to understand how individuals can build a professional online presence.
 
+Github Reposetry link:
+https://github.com/kashishrajbrl-bit/kashishraj
+
 ### Task 3: Exploring Digital Platforms
 Different digital platforms were explored to understand how they support communication, collaboration, and information sharing. A **Digital Literacy Awareness Quiz** was also created using Google Forms to collect responses and analyze data.
+
+Google Form Link:
+https://docs.google.com/forms/d/e/1FAIpQLSdafBFN3SoyvJzvigTyYm-23n4koCF4gD0PjimIZOoVza0yOA/viewform?usp=publish-editor
 
 ### Task 4: Email Etiquette
 This task focused on learning proper email communication. Sample professional emails were created to understand the importance of tone, structure, and clarity in digital communication.
